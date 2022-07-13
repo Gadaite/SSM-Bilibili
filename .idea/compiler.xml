@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springboot_08_mybatis" />
+        <module name="spring_02_base_config" />
+        <module name="spring_25_case_transfer_log" />
+        <module name="springmvc_06_rest" />
+        <module name="spring_08_di_collection" />
+        <module name="spring_04_bean_lifecycle" />
+        <module name="spring_19_aop_pointcut" />
+        <module name="spring_23_case_handle_password" />
+        <module name="spring_12_annotation_bean_manager" />
+        <module name="spring_06_di_constructor" />
+        <module name="spring_03_bean_instance" />
+        <module name="springboot_04_profile" />
+        <module name="spring_20_aop_advice_type" />
+        <module name="spring_05_di_set" />
+        <module name="springboot_09_ssm" />
+        <module name="spring_21_case_interface_run_speed" />
+        <module name="springmvc_08_ssm" />
+        <module name="springmvc_09_result" />
+        <module name="springmvc_01_quickstart" />
+        <module name="springmvc_04_request_param" />
+        <module name="mybatisplus_02_dql" />
+        <module name="spring_18_aop_quickstart" />
+        <module name="springboot_02_base_config" />
+        <module name="springboot_05_maven_and_boot_profile" />
+        <module name="springmvc_03_request_mapping" />
+        <module name="springmvc_12_interceptor" />
+        <module name="spring_17_aop_demo" />
+        <module name="springboot_01_quickstart" />
+        <module name="spring_24_case_transfer" />
+        <module name="springmvc_10_exception" />
+        <module name="spring_22_aop_advice_data" />
+        <module name="spring_01_quickstart" />
+        <module name="spring_13_annotation_di" />
+        <module name="springmvc_07_rest_case" />
+        <module name="springmvc_11_page" />
+        <module name="spring_14_annotation_third_bean_manager" />
+        <module name="springmvc_05_response" />
+        <module name="spring_15_spring_mybatis" />
+        <module name="mybatisplus_01_quickstart" />
+        <module name="spring_10_container" />
+        <module name="springboot_03_read_data" />
+        <module name="spring_11_annotation_bean" />
+        <module name="spring_16_spring_junit" />
+        <module name="springmvc_02_bean_load" />
+        <module name="springboot_06_config_file" />
+        <module name="mybatisplus_03_dml" />
+        <module name="mybatisplus_04_generator" />
+        <module name="spring_07_di_autoware" />
+        <module name="springboot_07_test" />
+        <module name="spring_09_datasource" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="mybatisplus_01_quickstart" target="1.8" />
+      <module name="mybatisplus_02_dql" target="1.8" />
+      <module name="mybatisplus_03_dml" target="1.8" />
+      <module name="mybatisplus_04_generator" target="1.8" />
+      <module name="spring_01_quickstart" target="1.5" />
+      <module name="spring_02_base_config" target="1.5" />
+      <module name="spring_03_bean_instance" target="1.5" />
+      <module name="spring_04_bean_lifecycle" target="1.5" />
+      <module name="spring_05_di_set" target="1.5" />
+      <module name="spring_06_di_constructor" target="1.5" />
+      <module name="spring_07_di_autoware" target="1.5" />
+      <module name="spring_08_di_collection" target="1.5" />
+      <module name="spring_09_datasource" target="1.5" />
+      <module name="spring_10_container" target="1.5" />
+      <module name="spring_11_annotation_bean" target="1.5" />
+      <module name="spring_12_annotation_bean_manager" target="1.5" />
+      <module name="spring_13_annotation_di" target="1.5" />
+      <module name="spring_14_annotation_third_bean_manager" target="1.5" />
+      <module name="spring_15_spring_mybatis" target="1.5" />
+      <module name="spring_16_spring_junit" target="1.5" />
+      <module name="spring_17_aop_demo" target="1.5" />
+      <module name="spring_18_aop_quickstart" target="1.5" />
+      <module name="spring_19_aop_pointcut" target="1.5" />
+      <module name="spring_20_aop_advice_type" target="1.5" />
+      <module name="spring_21_case_interface_run_speed" target="1.5" />
+      <module name="spring_22_aop_advice_data" target="1.5" />
+      <module name="spring_23_case_handle_password" target="1.5" />
+      <module name="spring_24_case_transfer" target="1.5" />
+      <module name="spring_25_case_transfer_log" target="1.5" />
+      <module name="springboot_01_quickstart" target="1.8" />
+      <module name="springboot_02_base_config" target="1.8" />
+      <module name="springboot_03_read_data" target="1.8" />
+      <module name="springboot_04_profile" target="1.8" />
+      <module name="springboot_05_maven_and_boot_profile" target="1.8" />
+      <module name="springboot_06_config_file" target="1.8" />
+      <module name="springboot_07_test" target="1.8" />
+      <module name="springboot_08_mybatis" target="1.8" />
+      <module name="springboot_09_ssm" target="1.8" />
+      <module name="springmvc_01_quickstart" target="1.5" />
+      <module name="springmvc_02_bean_load" target="1.5" />
+      <module name="springmvc_03_request_mapping" target="1.5" />
+      <module name="springmvc_04_request_param" target="1.5" />
+      <module name="springmvc_05_response" target="1.5" />
+      <module name="springmvc_06_rest" target="1.5" />
+      <module name="springmvc_07_rest_case" target="1.5" />
+      <module name="springmvc_08_ssm" target="1.5" />
+      <module name="springmvc_09_result" target="1.5" />
+      <module name="springmvc_10_exception" target="1.5" />
+      <module name="springmvc_11_page" target="1.5" />
+      <module name="springmvc_12_interceptor" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="mybatisplus_01_quickstart" options="-parameters" />
+      <module name="mybatisplus_02_dql" options="-parameters" />
+      <module name="mybatisplus_03_dml" options="-parameters" />
+      <module name="mybatisplus_04_generator" options="-parameters" />
+      <module name="springboot_01_quickstart" options="-parameters" />
+      <module name="springboot_02_base_config" options="-parameters" />
+      <module name="springboot_03_read_data" options="-parameters" />
+      <module name="springboot_04_profile" options="-parameters" />
+      <module name="springboot_05_maven_and_boot_profile" options="-parameters" />
+      <module name="springboot_06_config_file" options="-parameters" />
+      <module name="springboot_07_test" options="-parameters" />
+      <module name="springboot_08_mybatis" options="-parameters" />
+      <module name="springboot_09_ssm" options="-parameters" />
+    </option>
+  </component>
+</project>
